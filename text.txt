@@ -1,2 +1,3 @@
 create file text.txt
 updated on git directly.
+Adding line in master to conflict occur.

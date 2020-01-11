@@ -2,5 +2,3 @@ create file text.txt
 updated on git directly.
 Adding line in master to conflict occur.
 Write comment for conflict
-Add line 1
-Add line 2
